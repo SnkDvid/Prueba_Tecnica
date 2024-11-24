@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium1",
+      "Precio": "250.000",
+      "imagen": "imgprueba"
+    },
+    {
+      "id": 2,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium2",
+      "Precio": "250.000",
+      "imagen": "imgprueba1"
+    },
+    {
+      "id": 3,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium3",
+      "Precio": "250.000",
+      "imagen": "imgprueba2"
+    },
+    {
+      "id": 4,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium4",
+      "Precio": "250.000",
+      "imagen": "imgprueba3"
+    },
+    {
+      "id": 5,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium5",
+      "Precio": "250.000",
+      "imagen": "imgprueba4"
+    },
+    {
+      "id": 6,
+      "nombre": "Prueba de relidad",
+      "sku": "Stysla Premium6",
+      "Precio": "250.000",
+      "imagen": "imgprueba5"
+    }
+  ]
+  
